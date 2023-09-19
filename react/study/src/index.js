@@ -10,9 +10,9 @@ import { BrowserRouter } from 'react-router-dom';
 // import App from './06context/App';
 // import App from './07counter/App';
 // import App from './08routerV6/App';
-//import App from './09routerEx/App';
-//import App from './10reducer/App';
-import App from './11customHook/App';
+//import App from './09reducer/App';
+import App from './10customHook/App';
+//import App from './routerEx/App';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
